@@ -1,4 +1,4 @@
-Hi, I’m Mick, @DankDesign. UX Designer
+Hi, I’m Mick, @DankDesign. UX Designer <br>
 Find me on: [dankdesign.nl](dankdesign.nl)
 
 <!---
